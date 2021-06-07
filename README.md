@@ -1,3 +1,5 @@
 # tarea
 
-Tarea de programacion. Voy a subir un proyecto de java.
+Tarea de programacion.
+
+He subido el Hito de programacion del tercer trimestre
